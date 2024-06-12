@@ -1,0 +1,41 @@
+body{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 20px;
+    align-items: center;
+}
+h1{
+    color: blueviolet;
+}
+.center{
+text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+footer a{
+    margin:  20px;
+    text-align: center;
+   text-decoration: none;
+   color: aliceblue;
+}
+footer a:hover{
+    color: blueviolet;
+}
+footer p{
+    margin-top: 2px;
+}
+.container{
+    padding: 0px 50px;
+}
+nav a:hover{
+    color: blueviolet;
+}
